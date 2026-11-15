@@ -574,6 +574,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 ## Frameworks
 
+- **[Cowork](https://github.com/slashman413/cowork)** - An open-source, local-first multi-agent orchestration framework with native MCP tool calling, automated fallback chains, and real-time dashboard telemetry
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
